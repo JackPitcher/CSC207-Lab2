@@ -22,3 +22,5 @@
 - 1/2 tsp ground cinnamon
 - ...
 
+## Additional Directions by Erin:
+Cover with lots of whipped cream
