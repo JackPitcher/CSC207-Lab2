@@ -29,7 +29,7 @@ If you miss the lab and work on this after, you should use this URL though.
   contains some branches you will use in this lab.
 
 # TASK 1: Your first branch
-
+ 
 - [X] Create and checkout a new branch called `task_1` using either IntelliJ or the Terminal:
   - IntelliJ: `Git -> New branch...`
   - Terminal: `git checkout -b task_1`
