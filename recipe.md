@@ -7,7 +7,6 @@
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
 - 1/2 tsp ground cinnamon
-- ...
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
@@ -17,7 +16,6 @@ OR
 
 1. Preheat the oven to 350°F (175°C).
 2. In a large bowl, whisk together the flour, sugar, cocoa powder, chocolate chips, and vanilla extract.
-3. ...
 
 ## Additional Directions by Alice:
 1. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
