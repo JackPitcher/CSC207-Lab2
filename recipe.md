@@ -18,3 +18,9 @@ something else
 4. Add a tablespoon of instant coffee to the dry ingredients for a hint of mocha flavor.
 5. Mix in a handful of chocolate chunks for extra indulgence.
 6. Line the bottom of the baking pan with parchment paper for easy cake removal.
+
+## there is a new directions
+7. add ketchup
+8. add moew ketchup
+9. and mayo
+10. finished!
