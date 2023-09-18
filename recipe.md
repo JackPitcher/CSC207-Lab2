@@ -6,6 +6,9 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
+- 1 gourd-full of the blood from an unborn fawn
+- 5 chestnuts
+- 2 skin-flaps from a failed circumcision
 - ...
 
 ## Instructions:
